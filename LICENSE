@@ -1,0 +1,143 @@
+Proprietary License
+
+Version 1.0 | Last Updated: March 2026
+
+1. DEFINITIONS
+
+In this License:
+
+ "Code" means all source code, documentation, binaries, and associated materials in this repository.
+ "Commercial Use" includes any use that directly or indirectly generates revenue, monetary compensation, or business value, including but not limited to:
+   Using the Code in products or services offered for sale
+   Using the Code to provide services to paying clients
+   Using the Code as part of a Software-as-a-Service (SaaS) offering
+   Using the Code in a closed-source commercial application
+   Integrating the Code into enterprise/business solutions
+   Using the Code for internal business operations that generate profit
+ "You" or "Your" means the individual, organization, or legal entity exercising rights under this License.
+ "Author" means the original creator and copyright holder of the Code.
+
+ 2. GRANT OF LICENSE
+
+ 2.1 Permitted Uses
+Subject to all terms and conditions of this License, Author grants You a limited, non-exclusive, royalty-free, non-transferable license to:
+
+ View and Study: Read, examine, and study the Code for educational and learning purposes
+ Personal Use: Use the Code for personal, non-commercial projects
+ Internal Evaluation: Evaluate the Code's functionality for assessment purposes (non-commercial)
+ Academic Use: Use the Code in educational institutions for teaching and research (non-commercial)
+ Bug Reports: Report bugs and security vulnerabilities to Author
+
+ 2.2 Restrictions
+You MAY NOT:
+
+ Use the Code for any Commercial Use without explicit written permission from Author
+ Sell, license, distribute, or otherwise commercialize the Code
+ Use the Code to develop competing products or services
+ Modify and redistribute the Code (with or without modifications)
+ Remove, obscure, or alter any copyright notices, proprietary notices, or license terms
+ Reverse engineer, decompile, or attempt to derive the source code (if distributed as binary)
+ Use the Code in a publicly available SaaS or cloud service
+ Sublicense, rent, lease, or loan the Code to third parties
+ Use the Code in open-source projects or any project with a permissive license
+ Create derivative works and distribute them
+ Use the Code in any way that violates applicable laws or regulations
+
+ 3. INTELLECTUAL PROPERTY RIGHTS
+
+All right, title, and interest in and to the Code, including all intellectual property rights therein, remain with Author. This License grants You no ownership rights in the Code.
+
+ 4. COMMERCIAL USE INQUIRIES
+
+If You wish to use the Code for any Commercial Use, You must:
+
+1. Contact Author at: [INSERT YOUR EMAIL/CONTACT INFO]
+2. Obtain written permission from Author
+3. Agree to any licensing fees or terms Author may propose
+4. Execute a separate commercial license agreement
+
+Unauthorized Commercial Use is a material breach of this License.
+
+ 5. NO WARRANTY AND LIABILITY LIMITATION
+
+ 5.1 AS-IS BASIS
+The Code is provided "AS IS" without warranty of any kind, express or implied, including but not limited to warranties of:
+ Merchantability
+ Fitness for a particular purpose
+ Non-infringement
+ Accuracy or completeness
+
+ 5.2 LIABILITY EXCLUSION
+IN NO EVENT SHALL AUTHOR BE LIABLE FOR ANY:
+ Direct, indirect, incidental, special, consequential, or punitive damages
+ Loss of data, profits, revenue, or business opportunities
+ Damages arising from use or inability to use the Code
+ Even if advised of the possibility of such damages
+
+Your sole remedy is to cease use of the Code.
+
+ 6. TERMINATION
+
+ 6.1 Automatic Termination
+This License terminates immediately upon Your breach of any term, including unauthorized Commercial Use.
+
+ 6.2 Effect of Termination
+Upon termination, You must:
+ Cease all use of the Code
+ Delete or destroy all copies of the Code in Your possession
+ Certify compliance to Author upon request
+
+ 6.3 Survival
+Sections 3, 5, 6, and 7 survive termination.
+
+ 7. ENFORCEMENT
+
+Author reserves the right to:
+ Monitor for violations of this License
+ Take legal action for unauthorized Commercial Use
+ Recover legal fees and damages from violators
+ Pursue both civil and criminal remedies as available
+
+ 8. JURISDICTION AND GOVERNING LAW
+
+This License is governed by and construed in accordance with the laws of [INSERT YOUR JURISDICTION], without regard to conflicts of law principles. Any disputes shall be subject to the exclusive jurisdiction of courts in [INSERT YOUR JURISDICTION].
+
+ 9. SEVERABILITY
+
+If any provision of this License is found invalid or unenforceable, that provision shall be severed, and the remaining provisions shall continue in full force and effect.
+
+ 10. ENTIRE AGREEMENT
+
+This License constitutes the entire agreement between You and Author regarding the Code and supersedes all prior negotiations, representations, and agreements.
+
+ 11. MODIFICATIONS
+
+Author reserves the right to modify this License at any time. Continued use of the Code constitutes acceptance of any changes. For material changes, Author will provide at least 30 days' notice.
+
+ 12. RESTRICTIONS BY THIRD PARTIES
+
+If You receive cease-and-desist letters or similar communications from Author regarding violations of this License, You are solely responsible for defending yourself and cease immediately.
+
+ 13. DISCLAIMER OF ENDORSEMENT
+
+Any use of Code in Your projects does not imply endorsement by Author. You may not claim official affiliation with Author without written permission.
+
+ 14. ACADEMIC AND EDUCATIONAL EXCEPTIONS
+
+Educational institutions may use the Code for non-commercial teaching and research. However:
+ Distribution to commercial entities is prohibited
+ Publication in academic papers requires attribution and notification to Author
+ Commercialization by students/researchers requires explicit permission
+
+
+
+ CONTACT
+
+For licensing inquiries:
+Email: blackoperators.dev@gmail.com
+
+
+
+© 2026 black-operators. All rights reserved.
+
+This License is effective as of the date of first use of the Code.
