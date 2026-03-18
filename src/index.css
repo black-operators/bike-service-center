@@ -1,0 +1,13 @@
+@tailwind base; 
+@tailwind components; 
+@tailwind utilities;
+
+/* Modal open state: blur + disable interactions on background (Navbar included) */
+.modal-open nav {
+  filter: blur(8px);
+  pointer-events: none;
+}
+
+.modal-open .modal-allow-interaction {
+  pointer-events: auto;
+} 

@@ -1,0 +1,38 @@
+/* ===== GALLERY ===== */
+
+.gallery-filter {
+  display: flex;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.gallery-filter button {
+  padding: 8px 15px;
+  border: none;
+  background: #007bff;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.gallery-filter button:hover {
+  background: #0056b3;
+}
+
+.gallery-card {
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.gallery-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.gallery-info {
+  padding: 10px;
+  text-align: center;
+}
